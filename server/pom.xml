@@ -301,46 +301,6 @@
                 <version>${fory.version}</version>
             </dependency>
 
-            <!-- SnailJob Client -->
-            <dependency>
-                <groupId>com.aizuda</groupId>
-                <artifactId>snail-job-client-starter</artifactId>
-                <version>${snailjob.version}</version>
-            </dependency>
-            <!-- SnailJob 重试核心 -->
-            <dependency>
-                <groupId>com.aizuda</groupId>
-                <artifactId>snail-job-client-retry-core</artifactId>
-                <version>${snailjob.version}</version>
-            </dependency>
-            <!-- SnailJob 任务核心 -->
-            <dependency>
-                <groupId>com.aizuda</groupId>
-                <artifactId>snail-job-client-job-core</artifactId>
-                <version>${snailjob.version}</version>
-            </dependency>
-
-            <!-- Snail AI Agent 聊天室 -->
-            <dependency>
-                <groupId>com.aizuda</groupId>
-                <artifactId>snail-ai-agent-chat-starter</artifactId>
-                <version>${snailai.version}</version>
-            </dependency>
-
-            <!-- Snail AI Agent 执行器 -->
-            <dependency>
-                <groupId>com.aizuda</groupId>
-                <artifactId>snail-ai-agent-executor-starter</artifactId>
-                <version>${snailai.version}</version>
-            </dependency>
-
-            <!-- Snail AI OpenAPI 启动器 -->
-            <dependency>
-                <groupId>com.aizuda</groupId>
-                <artifactId>snail-ai-openapi-starter</artifactId>
-                <version>${snailai.version}</version>
-            </dependency>
-
             <!-- 加密包引入 -->
             <dependency>
                 <groupId>org.bouncycastle</groupId>
